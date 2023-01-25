@@ -14,7 +14,8 @@ The game was made with the codeBlocks IDE so to launch the game you will need it
   
 ### Specifications :  
 This is a school project for my second year of my computer science degree.  
-It was made in C with the SDL library, on Windows (comments in French).  
+It was made in C with the SDL library, on Windows (comments in French). 
+Made at the start of the year 2022.
   
 ### Preview (youtube video):  
 [![gamePlay](https://img.youtube.com/vi/0G5mg9jkth0/0.jpg)](https://www.youtube.com/watch?v=0G5mg9jkth0&ab_channel=L%C3%A9oH) 
